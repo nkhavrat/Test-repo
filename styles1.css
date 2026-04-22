@@ -1,0 +1,13 @@
+﻿body {
+    font-size: 24px;
+}
+p.bold {
+    font-weight: bold;
+}
+p.italic {
+    font-style: italic;
+}
+.your-class-name {
+    font-weight: bold;
+    font-style: italic;
+}
